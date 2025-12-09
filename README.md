@@ -42,12 +42,4 @@ This approach aims to produce **non-deterministic random data** for cryptographi
 
 ---
 
-## Installation
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/JitterChaChaRng.git
-cd JitterChaChaRng
-# rngcsharp
-random number production using cpu jitter
